@@ -16,7 +16,6 @@ import {
   ImageIcon,
   ItalicIcon,
   Link2Icon,
-  ListCollapseIcon,
   ListIcon,
   ListOrderedIcon,
   ListTodoIcon,
